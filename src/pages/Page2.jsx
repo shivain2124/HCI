@@ -1,20 +1,20 @@
 
-export default function Calender() {
+export default function Page2() {
   return (
     <div className="min-h-screen w-screen flex flex-col gap-4 items-center">
-      <h1 className="text-4xl font-bold p-4">Dashboard</h1>
+      <h1 className="text-4xl font-bold p-4">Page 2</h1>
       <div className="grid grid-cols-3 gap-4 p-4">
         <div className="bg-white p-4 rounded-lg shadow-lg">
-          <h2 className="text-xl font-bold">Total Projects</h2>
-          <p className="text-4xl font-bold">10</p>
+          <h2 className="text-xl font-bold">Bones</h2>
+          <p className="text-4xl font-bold">248</p>
         </div>
         <div className="bg-white p-4 rounded-lg shadow-lg">
-          <h2 className="text-xl font-bold">Total Tasks</h2>
-          <p className="text-4xl font-bold">20</p>
+          <h2 className="text-xl font-bold">Skulls</h2>
+          <p className="text-4xl font-bold">4</p>
         </div>
         <div className="bg-white p-4 rounded-lg shadow-lg">
-          <h2 className="text-xl font-bold">Total Members</h2>
-          <p className="text-4xl font-bold">30</p>
+          <h2 className="text-xl font-bold">Femur</h2>
+          <p className="text-4xl font-bold">8</p>
         </div>
       </div>
       <div className="flex gap-4">

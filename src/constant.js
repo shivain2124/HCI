@@ -4,16 +4,16 @@ export const routes = [
     href: "/",
   },
   {
-    name: "Projects",
-    href: "/project",
+    name: "Page 1",
+    href: "/Page2",
   },
   {
-    name: "Team",
-    href: "/team",
+    name: "Page 2",
+    href: "/Page2",
   },
   {
-    name: "Calendar",
-    href: "/calender",
+    name: "Fossils",
+    href: "/Fossils",
   },
   {
     name: "Magic in my bones",
@@ -24,11 +24,11 @@ export const routes = [
     href: "/report",
   },
   {
-    name: "Settings",
+    name: "Eat bones",
     href: "/setting",
   },
   {
-    name: "Profile",
+    name: "Settings",
     href: "/profile",
   },
 ];
